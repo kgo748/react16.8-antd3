@@ -1,6 +1,6 @@
 /**
  * 入口js
- * react v.16.8.6, antd v.3.xxx
+ * react v.16.8.6, antd v.3.xxx，非使用的最新版框架和插件；
  */
 import React from 'react'
 import ReactDOM from 'react-dom'
